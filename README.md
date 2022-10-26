@@ -1,6 +1,7 @@
 <h1>PyQt5 based GUI application to read a docx file and detect the language of its contents</h1>
 
 <h2> How to run the script</h2>
+
 1.Create the virtual environment with the command<br>
 `python -m venv venv`
 
