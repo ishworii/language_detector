@@ -37,8 +37,19 @@
 <h2>Future development</h2>
 
 <ul>
-  <li>Add support for detecting multiple languages in a single input text</li>
-  <li>Implement additional language detection techniques to improve accuracy</li>
+<li>Add support for detecting language of other file types, such as PDF or TXT.</li>
+  <li>Allow for batch processing of multiple files at once.</li>
+  <li>Implement a way to automatically move or organize the renamed files into separate folders based on their detected language.</li>
+</ul>
+
+<h2>Dependencies</h2>
+
+<ul>
+  <li>PyQt5</li>
+  <li>docx2txt</li>
+  <li>langdetect</li>
+  <li>shutil</li>
+</ul>
 </ul>
 
 <h2>Third-party libraries</h2>
